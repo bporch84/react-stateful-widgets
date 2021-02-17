@@ -14,7 +14,7 @@ Commit your code regularly and meaningfully. This helps both you and your team l
 
 This project includes a `src/components` folder containing several React components. In their current form these components are stateless and display hard-coded information only. You will make the app interactive by going into each component, adding state and implementing event handlers and helper functions to allow the users of the app to update state by interacting with the page. -->
 
-## Instructions
+<!-- ## Instructions
 
 ### Task 1: Project Set Up
 
@@ -27,13 +27,13 @@ This project includes a `src/components` folder containing several React compone
 - [ ] Optionally run tests using `npm test`. (The app must be running on `http://localhost:1234`)
 - [x] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [x] Push commits: `git push origin <firstName-lastName>`.
+- [x] Push commits: `git push origin <firstName-lastName>`. -->
 
-### Task 2a: Minimum Viable Product
+<!-- ### Task 2a: Minimum Viable Product
 
 1. Each component has the required slices of state.
 2. Each component's event handlers allow the user of the app to update state.
-3. Updated state is correctly reflected in the DOM for each component.
+3. Updated state is correctly reflected in the DOM for each component. -->
 
 #### Steps
 
